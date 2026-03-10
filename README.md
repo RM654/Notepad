@@ -73,8 +73,8 @@ Backend
 
 Installation
   Clone the Repository
-git clone https://github.com/yourusername/notes-app.git
-cd notes-app
+git clone https://github.com/RM654/Notepad.git
+cd collab-notes
  
 Backend Setup
 
